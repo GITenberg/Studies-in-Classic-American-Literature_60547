@@ -1,5 +1,8 @@
 _repo: Studies-in-Classic-American-Literature_60547
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60547-h/images/lawrence_cover.jpg
 creator:
   author:
     agent_name: Lawrence, D. H. (David Herbert)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60547#Studies-in-Classic-American-Literature
 gutenberg_issued: '2019-10-21'
 gutenberg_type: Text
 identifiers:
